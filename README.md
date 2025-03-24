@@ -1,6 +1,4 @@
----
-
-💻 Mayck | Android Developer
+💻 Mayck | Android Developer Junior
 
 🚀 Sobre mim
 
@@ -26,7 +24,3 @@ Outras Tecnologias: Coroutines, API Integration, MVVM
 📫 Onde me encontrar
 
 LinkedIn: linkedin.com/in/mayckgomes
-
-
-
----
