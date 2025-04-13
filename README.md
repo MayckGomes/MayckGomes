@@ -21,7 +21,7 @@
 
   ✅ Project Gym – Aplicativo completo para registro de treinos e exercícios.
 
-  🔄 Plan app – Aplicativo simples que auxilia em planejamento para dia da semana específicos.
+  ✅ Plan app – Aplicativo simples que auxilia em planejamento para dia da semana específicos.
 
 - 📫 Onde me encontrar
 
