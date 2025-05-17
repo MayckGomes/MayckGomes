@@ -23,6 +23,9 @@
 
   ✅ Plan app – Aplicativo simples que auxilia em planejamento para dia da semana específicos.
 
+  🔄 RaceTime app - Aplicativo que mostra informações sobre a atual temporada da fórmula um
+(em desenvolvimento)
+
 - 📫 Onde me encontrar
 
   LinkedIn: linkedin.com/in/mayckgomes
