@@ -23,8 +23,7 @@
 
   ✅ Plan app – Aplicativo simples que auxilia em planejamento para dia da semana específicos.
 
-  🔄 RaceTime app - Aplicativo que mostra informações sobre a atual temporada da fórmula um
-(em desenvolvimento)
+  ✅ RaceTime app - Aplicativo que mostra informações sobre a atual temporada da fórmula um
 
 - 📫 Onde me encontrar
 
