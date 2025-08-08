@@ -18,12 +18,12 @@
 ### [DatePlan](#)  
 🗓️ App para casais organizarem encontros, saídas e compromissos de forma prática e divertida.
 
-### [RaceTimeApp](#)  
+### [RaceTimeApp](https://www.github.com/MayckGomes/RaceTimeApp)  
 🏎️ Aplicativo que traz informações completas sobre Fórmula 1, com dados atualizados e interface moderna.
 
 ---
 
 ### 📫 Contato  
-[LinkedIn](#) | [GitHub](#) | [Portfólio](#)
+[LinkedIn](https://www.linkedin.com/in/mayckgomes)
 
 ---
