@@ -32,6 +32,7 @@ Sempre aberto para novos desafios e colaborações!
 ---
 
 ![Mayck Gomes's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MayckGomes&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Contato  
