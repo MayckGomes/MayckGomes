@@ -1,30 +1,29 @@
-💻 Mayck | Android Developer Junior
+# 👋 Olá, eu sou Mayck Gomes
 
-- 🚀 Sobre mim
+## 🚀 Minhas Stacks
 
-  Olá! Sou um desenvolvedor Android apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou focado em aprimorar minhas habilidades em Jetpack Compose, Kotlin e       arquitetura MVVM, além de explorar consumo de APIs e banco de dados.
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP" />
+  <img src="https://img.shields.io/badge/Ktor-0056D2?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Ktor" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
 
-- 🔥 Tecnologias e Ferramentas
+---
 
-  Linguagens: Kotlin
+## 📱 Meus Projetos Recentes
 
-  Frameworks e Bibliotecas: Jetpack Compose, Room, Ktor Client
+### [DatePlan](#)  
+🗓️ App para casais organizarem encontros, saídas e compromissos de forma prática e divertida.
 
-  Banco de Dados: SQLite, Room
+### [RaceTimeApp](#)  
+🏎️ Aplicativo que traz informações completas sobre Fórmula 1, com dados atualizados e interface moderna.
 
-  Outras Tecnologias: Coroutines, API Integration, MVVM
+---
 
+### 📫 Contato  
+[LinkedIn](#) | [GitHub](#) | [Portfólio](#)
 
-- 📌 Projetos Recentes
-
-  ✅ NoteBlocks – Um app simples para anotações utilizando Jetpack Compose.
-
-  ✅ Project Gym – Aplicativo completo para registro de treinos e exercícios.
-
-  ✅ Plan app – Aplicativo simples que auxilia em planejamento para dia da semana específicos.
-
-  ✅ RaceTime app - Aplicativo que mostra informações sobre a atual temporada da fórmula um
-
-- 📫 Onde me encontrar
-
-  LinkedIn: linkedin.com/in/mayckgomes
+---
