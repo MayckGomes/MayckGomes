@@ -31,7 +31,7 @@ Sempre aberto para novos desafios e colaborações!
 
 ---
 
-![GitHub commits](https://img.shields.io/github/commit-activity/m/MayckGomes?style=flat-square)
+![Mayck Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayckGomes&show_icons=true&theme=radical)
 
 ---
 
