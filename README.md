@@ -24,6 +24,5 @@
 ---
 
 ### 📫 Contato  
-[LinkedIn](https://www.linkedin.com/in/mayckgomes)
-
+[LinkedIn](https://www.linkedin.com/in/mayckgomes) | [Instagram](https://www.instagram.com/mayckdev.kt?igsh=MTR6ejhlMnoxMzl5cw==)
 ---
