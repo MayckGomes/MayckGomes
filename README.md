@@ -31,7 +31,6 @@ Sempre aberto para novos desafios e colaborações!
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/MayckGomes?style=social)
 ![GitHub commits](https://img.shields.io/github/commit-activity/m/MayckGomes?style=flat-square)
 
 ---
