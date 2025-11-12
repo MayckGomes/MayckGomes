@@ -23,7 +23,7 @@ Sempre aberto para novos desafios e colaborações!
 
 ## 📱 Meus Projetos Recentes
 
-### [DatePlan](#)  
+### [DatePlan](https://play.google.com/store/apps/details?id=mayckgomes.com.dateplan)  
 🗓️ App para casais organizarem encontros, saídas e compromissos de forma prática e divertida.
 
 ### [RaceTimeApp](https://www.github.com/MayckGomes/RaceTimeApp)  
