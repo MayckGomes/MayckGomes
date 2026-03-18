@@ -23,6 +23,9 @@ Sempre aberto para novos desafios e colaborações!
 
 ## 📱 Meus Projetos Recentes
 
+### [JWT-Login-API-Simple](https://github.com/MayckGomes/JWT-Login-API-Simple)  
+⚙️ API simples de autenticação JWT
+
 ### [DatePlan](https://play.google.com/store/apps/details?id=mayckgomes.com.dateplan)  
 🗓️ App para casais organizarem encontros, saídas e compromissos de forma prática e divertida.
 
