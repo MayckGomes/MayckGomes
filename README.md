@@ -26,7 +26,7 @@ Sempre aberto para novos desafios e colaborações!
 ### [JWT-Login-API-Simple](https://github.com/MayckGomes/JWT-Login-API-Simple)  
 ⚙️ API simples de autenticação JWT
 
-### [DatePlan]((https://www.github.com/MayckGomes/DatePlan-Web)  
+### [DatePlan](https://www.github.com/MayckGomes/DatePlan-Web)  
 🗓️ App para casais organizarem encontros, saídas e compromissos de forma prática e divertida.
 
 ### [RaceTimeApp](https://www.github.com/MayckGomes/RaceTimeApp)  
