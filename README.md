@@ -53,9 +53,17 @@ Currently working on multiplatform applications, backend solutions, and continuo
 
 ## 📱 Featured Projects
 
-### ❤️ [DatePlan](https://github.com/MayckGomes/dateplan-api)
+### ❤️ [DatePlan](https://play.google.com/store/apps/details?id=mayckgomes.com.dateplan)
 A multiplatform application designed to help couples organize dates, activities, and special moments.  
 **Stack:** Kotlin Multiplatform · Compose Multiplatform · Ktor · SQLDelight · Firebase
+
+### 💕 [DatePlan-API](https://github.com/MayckGomes/DatePlan-API-v2)
+A Spring application designed to help DatePlan app.  
+**Stack:** Java · Spring · Spring Security · Firebase
+
+### ❤️ [DatePlan-Web](https://github.com/MayckGomes/DatePlan-Web)
+A web application designed to help couples to discovery the app and how works.  
+**Stack:** HTML · CSS · JS
 
 ### 🏎️ RaceTimeApp
 A Formula 1 application providing race schedules, statistics, and up-to-date information through external APIs.
@@ -86,7 +94,7 @@ A JWT authentication API built to explore backend development, security concepts
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayckgomes)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayckdev.kt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayckgomes.deb)
 
 ---
 
