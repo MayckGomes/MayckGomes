@@ -85,7 +85,7 @@ A JWT API built to explore backend development, security concepts, and scalable 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayckGomes&layout=compact&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MayckGomes&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=MayckGomes&layout=compact&langs_count=6&theme=transparent)
 
 ---
 
