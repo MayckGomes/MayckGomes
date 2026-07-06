@@ -2,6 +2,8 @@
 
 **Mobile & Backend Developer** focused on Kotlin, Android, and Kotlin Multiplatform.
 
+See more about me in my [portfolio](https://portifolio-mayck.onrender.com/)
+
 I enjoy building modern, scalable applications and turning ideas into real products. My experience spans from mobile development with Jetpack Compose and Compose Multiplatform to backend services using Ktor, Spring Boot, and REST APIs.
 
 Currently working on multiplatform applications, backend solutions, and continuously exploring new technologies to improve performance, maintainability, and user experience.
@@ -61,18 +63,14 @@ A multiplatform application designed to help couples organize dates, activities,
 A Spring application designed to help DatePlan app.  
 **Stack:** Java · Spring · Spring Security · Firebase
 
-### ❤️ [DatePlan-Web](https://github.com/MayckGomes/DatePlan-Web)
-A web application designed to help couples to discovery the app and how works.  
-**Stack:** HTML · CSS · JS
-
-### 🏎️ RaceTimeApp
+### 🏎️ [RaceTimeApp](https://github.com/MayckGomes/RaceTimeApp)
 A Formula 1 application providing race schedules, statistics, and up-to-date information through external APIs.
 
-### 🏋️ Project Gym
+### 🏋️ [Project Gym](https://github.com/MayckGomes/Project-gym)
 A workout management application focused on organizing training routines and tracking progress.
 
-### 🔐 JWT Login API
-A JWT authentication API built to explore backend development, security concepts, and scalable architectures.
+### 🔐 [Spring Study Project](https://github.com/MayckGomes/Spring-Study-Project)
+A JWT API built to explore backend development, security concepts, and scalable architectures.
 
 ---
 
