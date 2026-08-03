@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/banner.png" alt="Mayck Gomes Banner" width="100%" />
+  <img src="banner.png" alt="Mayck Gomes Banner" width="100%" />
 </p>
 
 # 🏎️ Hi, I'm Mayck Gomes | PETRONAS Engineering Mode
@@ -58,7 +58,7 @@ Engineered with precision and high performance in mind:
 
 ## 🏆 Featured Projects (Paddock Showcase)
 
-### 🤖 [MatchSkills](https://github com/MatchSkills)
+### 🤖 [MatchSkills](https://github.com/MatchSkills)
 Recruitment platform powered by AI designed to match candidates and opportunities efficiently.  
 **Stack:** `Java` · `Spring Boot` · `Microservices` · `AI Integration`
 
