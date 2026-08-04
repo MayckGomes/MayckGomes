@@ -3,7 +3,7 @@
   <img src="https://github.com/MayckGomes/MayckGomes/blob/main/banner.gif" alt="Mayck Gomes Banner" width="100%" />
 </p>
 
-# 🏎️ Hi, I'm Mayck Gomes | PETRONAS Engineering Mode
+# 🏎️ Hi, I'm Mayck Gomes | F1 Performace Engineering Mode
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROLE-Mobile_%26_Backend_Dev-00A19C?style=for-the-badge&logo=android&logoColor=white" alt="Role" />
@@ -112,5 +112,5 @@ A JWT API built to explore backend development, security concepts, and scalable 
 > *"Se você quer ser bem-sucedido, precisa ter dedicação total, buscar seu limite máximo e dar o melhor de si."* — **Ayrton Senna**
 
 <p align="center">
-  <sub>Turning ideas into products through clean architecture, modern technologies, and continuous learning. 🏁 <b>#PETRONAS #SennaAlways</b></sub>
+  <sub>Turning ideas into products through clean architecture, modern technologies, and continuous learning. 🏁 <b>#SennaAlways</b></sub>
 </p>
