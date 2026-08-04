@@ -104,7 +104,7 @@ A JWT API built to explore backend development, security concepts, and scalable 
 ## 🏁 Radio Communication / Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayckgomes)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayckgomes.deb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayckgomes.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A19C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayckgomes-dev.onrender.com/)
 
 ---
