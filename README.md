@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/MayckGomes/MayckGomes/blob/main/banner.svg" alt="Mayck Gomes Banner" width="100%" />
+  <img src=https://github.com/MayckGomes/MayckGomes/blob/main/banner.gif" alt="Mayck Gomes Banner" width="100%" />
 </p>
 
 # 🏎️ Hi, I'm Mayck Gomes | PETRONAS Engineering Mode
