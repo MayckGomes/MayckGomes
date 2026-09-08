@@ -64,6 +64,7 @@ Recruitment platform powered by AI designed to match candidates and opportunitie
 
 ### 🏎️ [RaceTimeApp](https://github.com/MayckGomes/RaceTimeApp)
 A Formula 1 application providing race schedules, statistics, and real-time telemetry through external APIs.
+**Stack:** `KMP` · `CMP` · `Ktor`
 
 ### ❤️ [DatePlan](https://play.google.com/store/apps/details?id=mayckgomes.com.dateplan)
 A multiplatform application designed to help couples organize dates, activities, and special moments.  
