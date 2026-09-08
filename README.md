@@ -3,21 +3,21 @@
   <img src="https://github.com/MayckGomes/MayckGomes/blob/main/banner.svg" alt="Mayck Gomes Banner" width="100%" />
 </p>
 
-# 🏎️ Hi, I'm Mayck Gomes | F1 Performace Engineering Mode
-
 <p align="left">
   <img src="https://img.shields.io/badge/ROLE-Mobile_%26_Backend_Dev-00A19C?style=for-the-badge&logo=android&logoColor=white" alt="Role" />
  
-  <img src="https://img.shields.io/badge/STATUS-Looking forward to the next race -00A19C?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-Working💻  -00A19C?style=for-the-badge" alt="Status" />
 </p>
 
-> *"If you no longer go for a gap that exists, you are no longer a racing driver."*  
-> — **Ayrton Senna**
-
-**Mobile & Backend Developer** focused on Kotlin, Android, Kotlin Multiplatform, and Java / Spring Microservices.  
+## **Mobile & Backend Developer** focused on Kotlin, Android, Kotlin Multiplatform, and Java / Spring Microservices.  
 🌐 Check out my **[Portfolio / Telemetry](https://mayckgomes-dev.onrender.com/)**
 
 I build modern, scalable applications, turning ideas into real high-performance products. My experience spans from mobile development with Jetpack Compose & Compose Multiplatform to backend services using Java, Spring Boot, Ktor, Microservices architecture, and Cloud Infrastructure.
+
+---
+
+> *"If you no longer go for a gap that exists, you are no longer a racing driver."*  
+> — **Ayrton Senna**
 
 ---
 
